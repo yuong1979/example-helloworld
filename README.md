@@ -1,7 +1,11 @@
 Forked from https://github.com/solana-labs/example-helloworld.git
 
 
+
 #steps to run example helloworld project
+
+
+
 
 #Commands to run in bash on ubuntu to install all relevant packages
 
@@ -48,7 +52,10 @@ sudo apt-get install -y build-essential
 
 
 
+
+
 #After packages are installed run the below
+
 
 Create a new directory
 
